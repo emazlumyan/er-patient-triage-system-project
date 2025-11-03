@@ -3,7 +3,7 @@
 
 **Project Context**
 
-The Emergency Room Patient Triage System project was part of the curriculum of the course CS/IS 212 (Advanced Data Structures) at Glendale Community College.
+The Emergency Room Patient Triage System project was part of the curriculum of the course CS/IS 212 (Advanced Data Structures) at Glendale Community College. The project tasked students with developing a useful system for effectively conducting important emergency room management operations.
 
 **Project Overview**
 
